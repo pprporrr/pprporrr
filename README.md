@@ -1,7 +1,7 @@
 ![github-header-image](https://user-images.githubusercontent.com/81241751/215034246-57cf2909-b05d-4539-b2ed-8e5020bd8e8c.jpg)
 
-<h1 align="center">Hi 👋, I'm Thanarat Srirabut</h1>
-<h3 align="center">A student studying in CIE at KMITL and wanting to become a software engineering</h3>
+<h1 align="center"> Hi 🙋🏻‍♂️, I'm Thanarat Srirabut </h1>
+<h3 align="center"> CIE - KMITL 💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pprporrr&label=Profile%20views&color=0e75b6&style=flat" alt="pprporrr" /> </p>
 
