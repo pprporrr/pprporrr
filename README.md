@@ -3,8 +3,6 @@
 <h1 align="center"> Hi 🙋🏻‍♂️, I'm Thanarat Srirabut </h1>
 <h3 align="center"> CIE - KMITL 💻 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pprporrr&label=Profile%20views&color=0e75b6&style=flat" alt="pprporrr" /> </p>
-
 <p align="center"> <img src="https://user-images.githubusercontent.com/81241751/215032613-506a0ffa-ddfd-41b2-b887-07f1dd6b1739.gif" alt="coding" /> </p>
 
 - 📫 How to reach me **thanarat.srb@gmail.com**
