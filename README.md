@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/81241751/215032613-506a0ffa-ddfd-41b2-b887-07f1dd6b1739.gif" alt="coding" /> </p>
 
-- 📫 How to reach me **pprporrr@gmail.com**
+- 📫 How to reach me **thanarat.srb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
